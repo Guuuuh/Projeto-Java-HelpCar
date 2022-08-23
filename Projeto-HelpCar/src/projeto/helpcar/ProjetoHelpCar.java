@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package helpcar;
+package projeto.helpcar;
 
 /**
  *
  * @author gusta
  */
-public class HelpCar {
+public class ProjetoHelpCar {
 
     /**
      * @param args the command line arguments
