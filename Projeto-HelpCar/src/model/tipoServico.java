@@ -42,5 +42,5 @@ public class TipoServico {
     public String toString() {
         return "tipoServico{" + "codTipoServico=" + codTipoServico + ", codEmpresa=" + codEmpresa + ", descricao=" + descricao + '}';
     }
-    
+        
 }
