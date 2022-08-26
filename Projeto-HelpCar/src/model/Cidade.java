@@ -6,7 +6,7 @@ public class Cidade {
     private Estado estado;
     private String nome;
     
-        public Cidade(){
+    public Cidade(){
     }
 
     public Cidade(int codCidade, Estado estado, String nome) {
