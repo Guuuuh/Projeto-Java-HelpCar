@@ -10,9 +10,7 @@ public class Veiculo {
     private String ano; 
     private String placa;
     
-    public Veiculo(){
-        
-    }
+    public Veiculo(){}
     
     public Veiculo(int codVeiculo, int codCliente, String marca, String modelo, String ano, String placa){
         this.codVeiculo = codVeiculo;
