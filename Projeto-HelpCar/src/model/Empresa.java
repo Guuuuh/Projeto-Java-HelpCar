@@ -67,7 +67,7 @@ public class Empresa {
 	//toString
 	@Override
 	public String toString() {
-        return "Empresa ={" + "codEmpresa = " + codEmpresa + " nomeFantasia = " + nomeFantasia + " cnpj = " + cnpj + " contatoEmpresa = " + contatoEmpresa;
+        return "Empresa ={" + "codEmpresa = " + codEmpresa + " nomeFantasia = " + nomeFantasia + " cnpj = " + cnpj + " contatoEmpresa = " + contatoEmpresa + "}";
     }
 
 }
